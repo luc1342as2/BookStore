@@ -1,1 +1,1 @@
-# BookStore
+I developed a Bookstore application using Spring Boot to simulate the operations of a modern online bookstore. This project demonstrates my skills in building a robust backend framework, managing databases, and integrating APIs to create a seamless user experience. By focusing on scalability and efficiency, I ensured the application is structured to handle complex workflows.
